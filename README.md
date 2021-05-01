@@ -27,3 +27,4 @@ The resume page, which is essentially an interactive resume
 #### /static directory
 Contains directories for css, images, imgs and js. Pretty intuitive with what contains what.
 # JillaVenkat.github.io
+# JillaVenkat.github.io
