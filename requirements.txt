@@ -4,7 +4,6 @@ MarkupSafe==0.23
 PAM
 Pillow==2.3.0
 Pygments==1.6
-Twisted-Web
 Werkzeug
 adium-theme-ubuntu==0.3.4
 apt-xapian-index==0.45
